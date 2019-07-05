@@ -8,7 +8,7 @@ namespace Cinema.Controllers
 	{
 		[HttpGet]
 		public ActionResult MovieInsertion()
-		{
+		{ 
 			return View();
 		}
 
